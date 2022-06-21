@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-error.iml" filepath="$PROJECT_DIR$/.idea/spring-error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-error-handing/spring-rest-error-handing.iml" filepath="$PROJECT_DIR$/spring-rest-error-handing/spring-rest-error-handing.iml" />
+    </modules>
+  </component>
+</project>
